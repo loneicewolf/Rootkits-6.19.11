@@ -3,7 +3,6 @@
 Sending hugs to everyone reading this! \(^v^)/
 
 <img width="3300" height="2830" alt="Made With NotebookLM" src="https://github.com/user-attachments/assets/21174472-36a4-49d6-ad61-26968948ab5f" /> \
-*Graph Made With NotebookLM*
 
 ----
 
