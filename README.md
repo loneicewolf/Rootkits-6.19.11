@@ -1,5 +1,7 @@
-# linux-rootkit
-A Linux File Hider Rootkit for Kernel  6.12.74
+# a suite of linux-rootkits
+(why calling it "nano suit"? its a ref. from the Crysis games.)
+Rootkits for Kernel  6.12.74
+
 
 
 ## Disclaimer ⚠️
