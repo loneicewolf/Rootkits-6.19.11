@@ -12,11 +12,6 @@ And, this rootkit might (with 70~80% probability) crash your specific VM/bare me
 As I turned 26, I thought "lets make another rootkit for a new kernel, since fedora/qubes updated", and yeah here I am!
 
 
-**If you have feedback** \
-Please do open a issue with the feedback!
-Any feedback, idea, or thoughts or tests is warmly welcome!
-
-
 **Major Goal** \
 create original ideas like for example a DISK-HIDER or SECRET-STORAGE.
 
