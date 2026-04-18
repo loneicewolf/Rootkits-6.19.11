@@ -7,7 +7,7 @@ Sending hugs to everyone reading this! \(^v^)/
 
 What does these rootkits work on?
 specifically
-`Linux fedora 6.19.11-200.fc43.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Apr  2 16:55:52 UTC 2026 x86_64 GNU/Linux`
+- `Linux fedora 6.19.11-200.fc43.x86_64 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux`
 
 ----
 
